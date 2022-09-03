@@ -1,4 +1,5 @@
 package com.example.dronemusalasoft.business;
 
-public class M {
+public interface DroneController {
+
 }
